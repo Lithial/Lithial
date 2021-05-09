@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1334" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1351" class="">
     <defs>
         <style/>
     </defs>
@@ -1334,14 +1334,14 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@WellPaidGeek</span> Would almost be nice to be able to get paid per successful pull request. Assign tasks a value and for each successful one you get $x
+                  
+                  <div class="date">10:22 on 10/05/2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@WellPaidGeek</span> I actually wouldn't hate that.
                   
                   <div class="date">09:29 on 10/05/2021</div>
-                </div>
-                        <div class="tweet">
-                  I have discovered a new nemesis. Nginx is such a pain
-                  
-                  <div class="date">22:22 on 09/05/2021</div>
                 </div>
                     </section>
                 </div>
@@ -2464,7 +2464,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone Pacific/Auckland</span>
-                <span>Last updated Sun, 09 May 2021 22:22:32 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Sun, 09 May 2021 23:18:41 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
