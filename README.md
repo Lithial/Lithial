@@ -1,1 +1,1 @@
-![Metrics](https://github.com/Lithial/Lithial/blob/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Lithial/Lithial/main/github-metrics.svg)
