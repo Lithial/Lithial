@@ -1402,14 +1402,14 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@WellPaidGeek</span> That's why I've started learning and using user acceptance tests. It helps me stay on track
+                  
+                  <div class="date">10:59 on 04/06/2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@ohadelaide</span> <span class="mention">@yellowbeesnrose</span> I often find that I have to basically censor myself when I go to talk to creators. The nature of most social media platforms tends to encourage the thought process that everyone is friends but people have to remember that they're not best friends with strangers
                   
                   <div class="date">10:03 on 04/06/2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@Mandrothain</span> <span class="mention">@codingphase</span> Over here in New Zealand we're paying about $8 a gallon
-                  
-                  <div class="date">09:58 on 04/06/2021</div>
                 </div>
                     </section>
                 </div>
@@ -2515,7 +2515,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Fri, 04 Jun 2021 10:53:21 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 04 Jun 2021 11:58:03 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
