@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1206" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1296" class="">
     <defs>
         <style/>
     </defs>
@@ -1402,9 +1402,14 @@
             
           </div>
                         <div class="tweet">
-                  Ok so after a short break of s couple of weeks, it's back to learning about docker time. Let's see how long it takes to get some progress this time. I've already learned at least one useful thing.
+                  <span class="mention">@ohadelaide</span> <span class="mention">@yellowbeesnrose</span> I often find that I have to basically censor myself when I go to talk to creators. The nature of most social media platforms tends to encourage the thought process that everyone is friends but people have to remember that they're not best friends with strangers
                   
-                  <div class="date">11:42 on 28/05/2021</div>
+                  <div class="date">10:03 on 04/06/2021</div>
+                </div>
+                        <div class="tweet">
+                  <span class="mention">@Mandrothain</span> <span class="mention">@codingphase</span> Over here in New Zealand we're paying about $8 a gallon
+                  
+                  <div class="date">09:58 on 04/06/2021</div>
                 </div>
                     </section>
                 </div>
@@ -2510,7 +2515,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Fri, 04 Jun 2021 09:18:25 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 04 Jun 2021 10:53:21 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
