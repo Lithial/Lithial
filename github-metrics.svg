@@ -1402,14 +1402,14 @@
             
           </div>
                         <div class="tweet">
+                  TFW you get 8 hours into a run on Google colab and it decides to reset on you 13 epochs before the run completes :/
+                  
+                  <div class="date">21:50 on 07/06/2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@dave_epps</span> <span class="mention">@Mandrothain</span> <span class="mention">@codingphase</span> I found this breakdown for you.<br /><a href="https://t.co/PWF5Jp52Mn" class="link">aa.co.nz/cars/owning-a-…</a>
                   
                   <div class="date">09:41 on 07/06/2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@WellPaidGeek</span> That's why I've started learning and using user acceptance tests. It helps me stay on track
-                  
-                  <div class="date">10:59 on 04/06/2021</div>
                 </div>
                     </section>
                 </div>
@@ -2500,7 +2500,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Mon, 07 Jun 2021 21:22:48 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 07 Jun 2021 23:10:22 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
