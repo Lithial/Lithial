@@ -1402,14 +1402,14 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@EddyVinckk</span> I cannot stand this on a resume and all the common templates seem to have it. It shows nothing and undersells yourself.
+                  
+                  <div class="date">14:39 on 12/06/2021</div>
+                </div>
+                        <div class="tweet">
                   TFW you get 8 hours into a run on Google colab and it decides to reset on you 13 epochs before the run completes :/
                   
                   <div class="date">21:50 on 07/06/2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@dave_epps</span> <span class="mention">@Mandrothain</span> <span class="mention">@codingphase</span> I found this breakdown for you.<br /><a href="https://t.co/PWF5Jp52Mn" class="link">aa.co.nz/cars/owning-a-…</a>
-                  
-                  <div class="date">09:41 on 07/06/2021</div>
                 </div>
                     </section>
                 </div>
@@ -2445,7 +2445,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Sat, 12 Jun 2021 14:38:10 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 12 Jun 2021 15:20:16 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
